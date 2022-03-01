@@ -1,0 +1,54 @@
+.main-bg {
+    background-image: url('../assets/img/main-bg.svg');
+    background-position: center center;
+    background-size: cover;
+    color: var(--white-color);
+    margin-top: 55px;
+
+}
+
+.white-bg {
+    background-color: var(--white-color);
+    color:var(--primary-color);
+    
+}
+
+.main-content {
+ max-width: 120rem;
+ margin: 0 auto;
+ padding: 10rem var(--gap);
+}
+
+
+
+.intro-img {
+    color:crimson;
+
+   
+}
+
+.section {
+    min-height: 100vh; 
+}
+
+.gallery-img {
+    width:100vh;
+    max-width:36rem;
+    max-height:36rem;
+    overflow: hidden;
+}
+
+.gallery-img img {
+    transition: all 300ms ease-in-out;
+
+}
+
+.gallery-img img:hover {
+    transform:translate(-3%,-3%) scale(1.2) rotate(5deg);
+    
+}
+
+body .full-width {
+    width:100%;
+    flex: 1 1 100%;
+}
