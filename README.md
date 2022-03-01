@@ -1,2 +1,2 @@
 # Landing-page-new
- Primeiro repositório versionado
+ Primeiro repositório versionado e o meu primeiro projeto utilizando Html e Css. 
