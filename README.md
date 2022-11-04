@@ -1,5 +1,5 @@
 # Landing-page-new
- Meu primeiro repositório versionado e o meu primeiro projeto utilizando HTML, CSS e JavaScript :smile:
+ Esse foi o meu primeiro repositório no github e o meu primeiro projeto utilizando HTML, CSS e JavaScript :smile:
  
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
